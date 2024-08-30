@@ -1,4 +1,4 @@
-# Welcome to Our Project 👋✨
+# Welcome to EZPRINTS 👋✨
 
 We are a team of four passionate developers working together to build something amazing! Here's a little about us and our project:
 
